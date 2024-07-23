@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc<a href='#'>University of Pennsylvania</a>.
+subtitle: Postdoctoral Researcher. <a href='#'>University of Pennsylvania</a>.
 
 profile:
   align: left
