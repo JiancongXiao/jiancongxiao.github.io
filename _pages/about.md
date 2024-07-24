@@ -21,7 +21,7 @@ Privously, I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhe
 
 Research Interest
 ---
-I am generally interested in <a href='#'>statistics</a> and <a href='#'>learning theory</a> for trustworthy machine learning models.  
+I am generally interested in statistics and learning theory for trustworthy machine learning models.  
 **Classical Learning theory**: Optimization (non-convex, non-smooth problem, convergence and stability), Generalization (Rademacher complexity, VC-dim, Pac-Bayes, NTK).  
 **Adversarial Robustness**: Explaining adversarial examples, robust overfitting and adversarially robust generalization from a learning theory perspective.  
 **Large Language Models**:  Establishing theories for fine-tuning, algorithmic bias, calibration, etc.
