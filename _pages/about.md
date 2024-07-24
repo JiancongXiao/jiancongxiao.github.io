@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,10 +19,10 @@ Welcome to my homepage! I am currently a postdoctoral researcher at the Universi
 
 Privously, I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, where I was advised by Prof. [Zhi-Quan (Tom) Luo](https://sds.cuhk.edu.cn/en/teacher/214) and worked closely with Prof. [Ruoyu Sun](https://ruoyus.github.io). Prior to that, I received my M.S. degree from The Chinese University of Hong Kong and my B.S. degree from Sun Yat-sen University.
 
-Research Interest: I am generally interested in statistics and learning theory for trustworthy machine learning models.
-
-1. **Classical Learning theory**: Optimization (non-convex, non-smooth problem, convergence and stability), Generalization (Rademacher complexity, VC-dim, Pac-Bayes, NTK).
+**Research Interest**: I am generally interested in <a href='#'>statistics</a> and <a href='#'>learning theory</a> for trustworthy machine learning models.
 
 1. **Adversarial Robustness**: Explaining adversarial examples, robust overfitting and adversarially robust generalization from a learning theory perspective.
 
-1. **Large Language Models**:  Establishing theories for fine-tuning, algorithmic bias, calibration, etc.
+1. **Large Language Models**:  Establishing theories for fine-tuning, algorithmic bias, calibration, hallucinations, etc.
+
+1. **Classical Learning theory**: Optimization (non-convex, non-smooth problem, convergence and stability), Generalization (Rademacher complexity, VC-dim, Pac-Bayes, NTK).
