@@ -32,10 +32,14 @@
     - title: Postdoctoral Researcher
       institution: University of Pennsylvania
       year: 2023 - Present
-
+      description:
+        - Worked with Prof. Qi Long and Prof. Weijie J. Su.
+        
     - title: Research Intern
-      institution: Tencent AI LAb
+      institution: Tencent AI Lab
       year: 2020 - 2022
+      description:
+        - Worked with Dr. Yanbo Fan.
 
     - title: Finanical Engineer
       institution: GF Sercurities and GF Futures
@@ -53,12 +57,12 @@
     - year: 2022
       items:
         - NeurIPS 2022 Spotlight
-    - year: 2020 - 2023
-      items:
-        - Tencent Ph.D. Scholarship by Tencent AI Lab
     - year: 2021
       items:
         - Poster Award of 2021 Graduate Research Conference at CUHK(SZ)
+    - year: 2020 - 2023
+      items:
+        - Tencent Ph.D. Scholarship by Tencent AI Lab
     - year: 2017 - 2023
       items:
         - Postgraduate Scholarship by The Chinese University of Hong Kong, Shenzhen
