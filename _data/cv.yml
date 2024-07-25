@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jiancong Xiao
     - name: E-mail: 
-      value: jcxiao[at]upenn[dot]edu
+      value: jcxiao@upenn.edu
     - name: Office
       value: 231 Blockley Hall, 423 Guardian Drive, Philadelphia, PA 19104
     - name: Languages
@@ -24,3 +24,42 @@
       year: 2014
 
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: University of Pennsylvania
+      year: 2023 - Present
+
+    - title: Research Intern
+      institution: Tencent AI LAb
+      year: 2020 - 2022
+
+    - title: Finanical Engineer
+      institution: GF Sercurities and GF Futures
+      year: 2016 - 2017
+      description:
+        - I was a financial engineer for 2 years before I started my Ph.D.
+        - I have an FRM certification.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - NeurIPS 2023 Scholar Award
+    - year: 2022
+      items:
+        - NeurIPS 2022 Spotlight
+    - year: 2020 - 2023
+      items:
+        - Tencent Ph.D. Scholarship by Tencent AI Lab
+    - year: 2021
+      items:
+        - Poster Award of 2021 Graduate Research Conference at CUHK(SZ)
+    - year: 2017 - 2023
+      items:
+        - Postgraduate Scholarship by The Chinese University of Hong Kong, Shenzhen
+    - year: 2013
+      items:
+        - Undergraduate Scholarship by Sun Yat-sen University
