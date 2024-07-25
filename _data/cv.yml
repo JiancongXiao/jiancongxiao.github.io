@@ -15,13 +15,15 @@
   contents:
     - title: Ph.D. in Computer and Information Engineering
       institution: The Chinese University of Hong Kong, Shenzhen
-      year: 2023
+      description:
+        - Advised by Prof. Zhi-Quan (Tom) Luo
+      year:   
     - title: M.S. in Mathematics
       institution: The Chinese University of Hong Kong
-      year: 2015
+      year:   
     - title: Bachelor of Economics, Mathematics Experimental Class
       institution: Sun Yat-sen University
-      year: 2014
+      year:   
 
 
 - title: Experience
