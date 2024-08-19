@@ -19,7 +19,7 @@ Welcome to my homepage! I am currently a postdoctoral researcher at the Universi
 
 Privously, I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, where I was advised by Prof. [Zhi-Quan (Tom) Luo](https://sds.cuhk.edu.cn/en/teacher/214) and worked closely with Prof. [Ruoyu Sun](https://ruoyus.github.io). Prior to that, I received my M.S. degree from The Chinese University of Hong Kong and my B.S. degree from Sun Yat-sen University.
 
-**Research Interest**: I am broadly interested in <a href='#'>statistics</a> and <a href='#'>learning theory</a> for trustworthy machine learning models.
+**Research Interest**: I am broadly interested in <a href='#'>statistical issues</a> and <a href='#'>learning theory</a> for trustworthy machine learning models, with a recent focus on the theory of large language models.
 
 1. **Adversarial Robustness**: Explaining adversarial examples, robust overfitting and adversarially robust generalization from a learning theory perspective.
 
