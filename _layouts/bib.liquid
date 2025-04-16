@@ -22,10 +22,10 @@
             {% endif %}
           </abbr>
         {% else %}
-          <abbr class="badge rounded w-80">{{ entry.abbr }}</abbr>
+          <span class="badge align-middle" style="min-width: 100px;">{{ entry.abbr }}</span>
         {% endif %}
         {%- if entry.award -%}
-          <span class="award badge">{{ entry.award }}</span>
+          <span class="badge align-middle" style="min-width: 100px;">{{ entry.award }}</span>
         {%- endif -%}
       {% endif %}
       {% if entry.preview %}
