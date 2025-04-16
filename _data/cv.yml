@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jiancong Xiao (萧建聪)
     - name: E-mail
-      value: jcxiao@upenn.edu
+      value: jcxiao AT upenn DOT edu
     - name: Office
       value: 231 Blockley Hall, 423 Guardian Drive, Philadelphia, PA 19104
     - name: Languages
@@ -51,6 +51,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - NeurIPS 2024 FITML Best Paper Runner-up
     - year: 2023
       items:
         - NeurIPS 2023 Scholar Award
