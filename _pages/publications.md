@@ -18,5 +18,3 @@ nav_order: 2
 {% bibliography %}
 
 </div>
-
-<a href="https://clustrmaps.com/site/1c6ia"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=-85n8yjYLOZfkdMP3F1VDOwk1ePYu0ilqgh3giUEUiI&cl=ffffff" /></a>
