@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Our paper titled "Restoring Calibration for Aligned Large Language Models: A Calibration-Aware Fine-Tuning Approach" have been accepted to ICML 2025. Thanks for all the collaborators!
+Our paper titled "Restoring Calibration for Aligned Large Language Models: A Calibration-Aware Fine-Tuning Approach" has been accepted to ICML 2025. Thanks for all the collaborators!
