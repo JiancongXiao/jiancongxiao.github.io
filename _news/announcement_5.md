@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending COLM2024 at UPenn.
+Attending COLM 2024 at UPenn.
