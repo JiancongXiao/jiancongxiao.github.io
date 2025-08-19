@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Our paper titled "On the Algorithmic Bias of Aligning Large Language Models with RLHF: Preference Collapse and Matching Regularization" have been accepted to JASA. Thanks for all the collaborators!
+Our paper titled "On the Algorithmic Bias of Aligning Large Language Models with RLHF: Preference Collapse and Matching Regularization" has been accepted to JASA. Thanks for all the collaborators!
