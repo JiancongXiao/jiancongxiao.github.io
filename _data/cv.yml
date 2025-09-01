@@ -10,6 +10,15 @@
     - name: Languages
       value: English, Chinese Mandarin and Cantonese
 
+- title: Academic Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: University of Pennsylvania
+      year: 2023 - Present
+      description:
+        - Advised by Prof. Qi Long and Prof. Weijie J. Su.
+        
 - title: Education
   type: time_table
   contents:
@@ -29,14 +38,14 @@
       logo: sysu.png
 
 
-- title: Experience
+- title: Industries Experience
   type: time_table
   contents:
-    - title: Postdoctoral Researcher
-      institution: University of Pennsylvania
-      year: 2023 - Present
+    - title: Financial Engineer
+      institution: GF Futures
+      year: 2015-2017
       description:
-        - Worked with Prof. Qi Long and Prof. Weijie J. Su.
+        - Worked on option pricing and modeling. This experience helped clarify a strong long-term interest in theoretical research, which led to a transition to Ph.D. training.
 
 - title: Honors and Awards
   type: time_table
