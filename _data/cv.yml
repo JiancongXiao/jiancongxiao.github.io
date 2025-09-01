@@ -18,15 +18,15 @@
       description:
         - Advised by Prof. Zhi-Quan (Tom) Luo
       year: 2017 - 2023
-      logo: "cuhk.jpg"
+      logo: cuhk.jpg
     - title: M.S. in Mathematics
       institution: The Chinese University of Hong Kong
       year: 2014 - 2015
-      logo: "cuhk.jpg"
+      logo: cuhk.jpg
     - title: B.Econ. in Finance, Mathematics Honors Program
       institution: Sun Yat-sen University
       year: 2010 - 2014 
-      logo: "sysu.png"
+      logo: sysu.png
 
 
 - title: Experience
