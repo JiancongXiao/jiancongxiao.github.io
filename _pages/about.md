@@ -27,6 +27,6 @@ Previously, I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzh
 
 1. **Adversarial Robustness**: Developing theoretical frameworks for understanding adversarial examples, robust overfitting, and adversarially robust generalization. 
    
-1. **Classical Learning theory**: Studying Generalization (Rademacher complexity, Uniform stability, Pac-Bayes), Optimization (non-convex, non-smooth problem).
+1. **Classical Learning Theory**: Studying Generalization (Rademacher complexity, Uniform stability, Pac-Bayes), Optimization (non-convex, non-smooth problem).
 
 I am currently on the academic job market for the 2025–2026 cycle, seeking faculty positions in data science, statistics, mathematics, machine learning, and related fields.
