@@ -1,0 +1,6 @@
+- title: Instructor
+  type: time_table
+  contents:
+    - year: Summer 2025
+      items:
+        - Statistical Inference in Large Language Models
