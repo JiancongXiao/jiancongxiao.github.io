@@ -1,6 +1,40 @@
-- title: Instructor
+- title: Instructor, ICSA 2025, UConn
   type: time_table
   contents:
     - year: Summer 2025
       items:
         - Statistical Inference in Large Language Models
+
+- title: Invited Guest Lecturer, UPenn
+  type: time_table
+  contents:
+    - year: Spring 2025
+      items:
+        - STAT 9917&#58; Statistical Topics in Large Language Models
+
+- title: Teaching Assistant, CUHK(SZ)
+  type: time_table
+  contents:
+    - year: Spring 2020
+      items:
+        - MAT 3220&#58; Optimization II
+  contents:
+    - year: Fall 2019
+      items:
+        - MAT 3007&#58; Optimization I
+  contents:
+    - year: Spring 2019
+      items:
+        - MAT 3220&#58; Optimization II
+  contents:
+    - year: Fall 2018
+      items:
+        - MAT 4001&#58; Numerical Analysis
+  contents:
+    - year: Spring 2018
+      items:
+        - MAT 1004&#58; Mathematical Analysis II
+  contents:
+    - year: Fall 2017
+      items:
+        - MAT 1003&#58; Mathematical Analysis I
