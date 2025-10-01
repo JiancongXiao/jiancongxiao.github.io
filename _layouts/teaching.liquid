@@ -6,9 +6,9 @@ layout: default
     <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
-        {% if page.cv_pdf %}
+        {% if page.teaching_pdf %}
           <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+            href="{{ page.teaching_pdf | prepend: 'assets/pdf/' | relative_url}}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
@@ -22,22 +22,22 @@ layout: default
     </header>
 
     <article>
-      <div class="cv">
-        {% for entry in site.data.cv %}
+      <div class="teaching">
+        {% for entry in site.data.teaching %}
           <a class="anchor" id="{{ entry.title }}"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
             <div>
               {% if entry.type == 'list' %}
-                {% include cv/list.liquid %}
+                {% include teaching/list.liquid %}
               {% elsif entry.type == 'map' %}
-                {% include cv/map.liquid %}
+                {% include teaching/map.liquid %}
               {% elsif entry.type == 'nested_list' %}
-                {% include cv/nested_list.liquid %}
+                {% include teaching/nested_list.liquid %}
               {% elsif entry.type == 'time_table' %}
-                {% include cv/time_table.liquid %}
+                {% include teaching/time_table.liquid %}
               {% elsif entry.type == 'list_groups' %}
-                {% include cv/list_groups.liquid %}
+                {% include teaching/list_groups.liquid %}
               {% else %}
                 {{ entry.contents }}
               {% endif %}
@@ -52,9 +52,9 @@ layout: default
     <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
-        {% if page.cv_pdf %}
+        {% if page.teaching_pdf %}
           <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+            href="{{ page.teaching_pdf | prepend: 'assets/pdf/' | relative_url}}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
@@ -68,7 +68,7 @@ layout: default
     </header>
 
     <article>
-      <div class="cv">
+      <div class="teaching">
         {% for data in site.data.resume %}
           {% if site.jsonresume and site.jsonresume.size > 0 %}
             {% unless site.jsonresume contains data[0] %}
