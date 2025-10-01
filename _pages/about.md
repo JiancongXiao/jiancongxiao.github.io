@@ -21,7 +21,7 @@ Previously, I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzh
 
 **Research Interest**: I am broadly interested in <a href='#'>statistical learning theory</a> and <a href='#'>deep learning theory</a>, with a focus on developing responsible and trustworthy machine learning models. My recent research focuses on <a href='#'>statistical topics in large language models (LLMs)</a>. 
 
-1. **Bias in LLM Alignment**: Analyzing algorithmic bias and fairness in preference alignment methods. Developing preference alignment algorithms. 
+1. **LLM Alignment**: Analyzing algorithmic biases in preference alignment methods, developing preference alignment algorithms, exploring game-theoretic approaches to alignment, and investigating alignment from the perspective of social choice theory.
 
 1. **LLM Training and Fine-Tuning**: Establishing theoretical foundations for fine-tuning and post-training algorithms. Addressing calibration issues in LLMs. 
 
