@@ -1,7 +1,7 @@
 - title: Instructor
   type: time_table
   contents:
-    - name: ICSA 2025, UConn
+    - title: ICSA 2025, UConn
     - year: Summer 2025
       items:
         - Statistical Inference in Large Language Models
@@ -9,7 +9,7 @@
 - title: Invited Guest Lecturer
   type: time_table
   contents:
-    - name: UPenn
+    - title: UPenn
     - year: Spring 2025
       items:
         - STAT 9917&#58; Statistical Topics in Large Language Models
@@ -17,7 +17,7 @@
 - title: Teaching Assistant
   type: time_table
   contents:
-    - name: CUHK(SZ)
+    - title: CUHK(SZ)
     - year: Spring 2020
       items:
         - MAT 3220&#58; Optimization II
