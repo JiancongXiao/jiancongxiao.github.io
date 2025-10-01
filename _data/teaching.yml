@@ -1,6 +1,7 @@
-- title: Instructor, ICSA 2025, UConn
+- title: Instructor
   type: time_table
   contents:
+    ICSA 2025, UConn
     - year: Summer 2025
       items:
         - Statistical Inference in Large Language Models
