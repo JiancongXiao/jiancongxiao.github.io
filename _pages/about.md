@@ -29,4 +29,4 @@ Previously, I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzh
    
 1. **Classical Learning Theory**: Studying Generalization (Rademacher complexity, Uniform stability, Pac-Bayes), Optimization (non-convex, non-smooth problem).
 
-I will be joining the National University of Singapore (NUS) as a Tenure-Track Assistant Professor in the Department of Computer Science, starting in Summer 2026. I am open to research discussions. If you are interested in my work or would like to explore potential collaborations, please feel free to reach out via email."
+I will be joining the National University of Singapore (NUS) as a Tenure-Track Assistant Professor in the Department of Computer Science, starting in Summer 2026. I am open to research discussions. If you are interested in my work or would like to explore potential collaborations, please feel free to reach out via email.
