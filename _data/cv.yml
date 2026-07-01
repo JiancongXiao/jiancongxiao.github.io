@@ -4,18 +4,21 @@
     - name: Full Name
       value: Jiancong Xiao (萧建聪)
     - name: E-mail
-      value: jcxiao@upenn.edu; jiancongxiao@link.cuhk.edu.{cn,hk}
+      value: jiancongxiao@nus.edu.sg
     - name: Office
-      value: 231 Blockley Hall, 423 Guardian Drive, Philadelphia, PA 19104
+      value: AS6-04-14, 11 Computing Drive, Singapore
     - name: Languages
       value: English, Chinese Mandarin and Cantonese
 
 - title: Academic Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: National University of Singapore
+      year: 2026 - Present
     - title: Postdoctoral Researcher
       institution: University of Pennsylvania
-      year: 2023 - Present
+      year: 2023 - 2026
       description:
         - Hosted by Prof. Qi Long and Prof. Weijie J. Su.
         
