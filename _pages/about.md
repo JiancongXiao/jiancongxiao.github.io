@@ -14,10 +14,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Welcome to my homepage! I am a tenure-track Assistant Professor in the Department of Computer Science at the National University of Singapore (NUS).
 
-Welcome to my homepage! I am currently a postdoctoral researcher at the University of Pennsylvania, working with Prof. [Qi Long](https://www.med.upenn.edu/long-lab/) and Prof. [Weijie J. Su](http://www-stat.wharton.upenn.edu/~suw/). 
-
-Previously, I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, where I was advised by Prof. [Zhi-Quan (Tom) Luo](https://sds.cuhk.edu.cn/en/teacher/214) and worked closely with Prof. [Ruoyu Sun](https://ruoyus.github.io). Before starting my doctoral studies, I spent two years working in finance. I received my M.S. degree from The Chinese University of Hong Kong and my Bacholar's degree from Sun Yat-sen University. 
+Previously, I was a postdoctoral researcher at the University of Pennsylvania, where I worked with Prof. [Qi Long](https://www.med.upenn.edu/long-lab/) and Prof. [Weijie J. Su](http://www-stat.wharton.upenn.edu/~suw/). I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzhen, where I was advised by Prof. [Zhi-Quan (Tom) Luo](https://sds.cuhk.edu.cn/en/teacher/214) and worked closely with Prof. [Ruoyu Sun](https://ruoyus.github.io). Before starting my doctoral studies, I spent two years working in finance. I received my M.S. degree from The Chinese University of Hong Kong and my Bacholar's degree from Sun Yat-sen University. 
 
 **Research Interest**: I am broadly interested in <a href='#'>learning theory</a>, <a href='#'>statistics</a> and <a href='#'>optimization</a>, with a focus on establishing foundations for responsible and trustworthy machine learning models. My recent research focuses on <a href='#'>mathematical and statistical topics in large language models (LLMs)</a>. 
 
@@ -29,4 +28,4 @@ Previously, I obtained my Ph.D. from The Chinese University of Hong Kong, Shenzh
    
 1. **Classical Learning Theory**: Studying Generalization (Rademacher complexity, Uniform stability, Pac-Bayes), Optimization (non-convex, non-smooth problem).
 
-**[Announcement]** I will be joining the National University of Singapore (NUS) as a Tenure-Track Assistant Professor in the Department of Computer Science, starting in Summer 2026. I am actively looking for PhD students for Spring/Fall 2027, as well as research assistants and research interns. If you are interested, please feel free to reach out via email.
+**[Announcement]** I am actively looking for PhD students for Fall 2027, as well as research assistants and research interns. If you are interested, please feel free to reach out via email.
