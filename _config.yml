@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jiancong
 middle_name: 
 last_name: Xiao
-email: jcxiao@upenn.edu
+email: jiancongxiao@nus.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal website of Jiancong Xiao.
 footer_text: >
@@ -19,7 +19,7 @@ icon: cuhk.ico # the emoji used as the favicon (alternatively, provide image nam
 
 url: https://jiancongxiao.github.io
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -49,7 +49,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false
+search_enabled: true
 socials_in_search: true
 bib_search: true
 
@@ -195,12 +195,12 @@ collections:
 
 announcements:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: true
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: true
   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
